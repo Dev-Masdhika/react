@@ -1,0 +1,390 @@
+{
+  "app": {
+    "author": "Masdhika.com",
+    "defaultImage": "https://1.bp.blogspot.com/-QYP55lDT3y8/XdEL28HRsfI/AAAAAAAACqw/My15c96Og8022Jc6HVfPFf1gBku8PmA_wCLcBGAsYHQ/s1600/no-image-codepelajar.png",
+    "logo": "https://avatars.githubusercontent.com/u/45938169?v=4",
+    "logoWeb": {
+      "text": "WUZZ",
+      "image": {
+        "lightMode": "https://blogger.googleusercontent.com/img/a/AVvXsEi9eHEqkjtPdJd1Cd_V3iGlaSqUa_BU6yejDrc5r2aeH_4stlIZeNdtEijvvkbqg9Pw_ZkheY9nFUO-z5MJqkU_bX3bco0Gyn2T-OfaNr27_-0VHYLSoXfMwVOcnAT5_MZRipj8DPMk1qblh2Xo4Kf5jLXcHkar0iS_aFG0zozaO32Csx_V44j311Q99gVL",
+        "darkMode": "https://blogger.googleusercontent.com/img/a/AVvXsEjUgcy4vE7Tu66lfRZndtkd8tm57-mPhi4t-WslDtMEKmdJbta5OyyiJM8Uvh60R7MDX__TJOTUstSFVyYkyUuKeQ4ygtHFQjzlHBLDBDaDFYzUBNdmtRa4I2szry2kJ9rT8NdD5fzwy2mguXR0JNGcsLr-_VOPMf48HDf18Ak1po2vWaKIjVs73u4Hb7EX"
+      }
+    }
+  },
+  "blogger": {
+    "blogId": "4325850905345169008",
+    "blogUrl": "https://mwh3h3.blogspot.com"
+  },
+  "google": {
+    "apiKey": "AIzaSyBr6IM-_GVlGjjQY-yekOw1RLf2GIEoKsg",
+    "cse": {
+      "url": "https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
+    },
+    "firebase": {
+      "apiKey": "AIzaSyCWmOlYDKxGYzg0R6Ac2nU4veTFIo8ObFw",
+      "authDomain": "react-experiment-itodev.firebaseapp.com",
+      "projectId": "react-experiment-itodev",
+      "storageBucket": "react-experiment-itodev.appspot.com",
+      "messagingSenderId": "621034902241",
+      "appId": "1:621034902241:web:b9dfe3eb87d447880f9da0"
+    }
+  },
+  "disqus": {
+    "username": "itodev"
+  },
+  "addThis": {
+    "id": "INI DARI JSON CONFIG"
+  },
+  "authorBlog": [
+    {
+      "id": "03638114585288281467",
+      "name": "DIH",
+      "badge": "New",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwinYJ2AP_WbqoLK7xX6mkLnc-eIn7NRfMVQKchhSzV1Uw__f67Vsde1VUPex8nVke6uGpwHTTDTMyNOxRCl0RddAFIQRZIf6kB7hiYcHbWph0xC0-bDE313_QF0teXi9mCPms-v2tC5icsRyxFwxxoZSml6stEK_NaJNGWYawtvDCSK__F5H9OxmHtA/s1600/masdhika.png",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/itokun99",
+          "username": "itokun99"
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/mr.ito__",
+          "username": "mr.ito__"
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/indrawan-lisanto/",
+          "username": "Indrawan Lisanto"
+        }
+      ]
+    }
+  ],
+  "author": [
+    {
+      "id": "15951301036007458105",
+      "name": "Indrawan Lisanto",
+      "email": "itodev@proton.me",
+      "title": "Front-End Developer",
+      "username": "itokun99",
+      "nickname": "ito",
+      "profilePic": "https://avatars.githubusercontent.com/u/45938169?v=4",
+      "coverPic": "",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/itokun99",
+          "username": "itokun99"
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/mr.ito__",
+          "username": "mr.ito__"
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/indrawan-lisanto/",
+          "username": "Indrawan Lisanto"
+        }
+      ]
+    }
+  ],
+  "headerSection": {
+    "headerTop": {
+      "navMenu": [
+        {
+          "id": 1,
+          "title": "Tentang Kami",
+          "url": "/latest",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 2,
+          "title": "Kontak Kami",
+          "url": "/projects",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 3,
+          "title": "Disclaimer",
+          "url": "/services",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 4,
+          "title": "Privacy Policy",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 5,
+          "title": "Sitemap",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        }
+      ],
+      "navSocials": [
+        {
+          "id": 1,
+          "title": "title_1",
+          "url": "/",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 2,
+          "title": "title_2",
+          "url": "/",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        }
+      ]
+    },
+    "headerMid": {
+      "logoType": "image"
+    },
+    "headerBot": {
+      "logoType": "text",
+      "navMenu": [
+        {
+          "id": 1,
+          "title": "Sosial Media",
+          "url": "/latest",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 2,
+          "title": "Game",
+          "url": "/projects",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 3,
+          "title": "Design",
+          "url": "/services",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 4,
+          "title": "Android",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 5,
+          "title": "Internet",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 6,
+          "title": "Tips",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        },
+        {
+          "id": 7,
+          "title": "Blogger",
+          "url": "/contact",
+          "icon": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.22303 0.665992C7.32551 0.419604 7.67454 0.419604 7.77702 0.665992L9.41343 4.60039C9.45663 4.70426 9.55432 4.77523 9.66645 4.78422L13.914 5.12475C14.18 5.14607 14.2878 5.47802 14.0852 5.65162L10.849 8.42374C10.7636 8.49692 10.7263 8.61176 10.7524 8.72118L11.7411 12.866C11.803 13.1256 11.5206 13.3308 11.2929 13.1917L7.6564 10.9705C7.5604 10.9119 7.43965 10.9119 7.34365 10.9705L3.70718 13.1917C3.47945 13.3308 3.19708 13.1256 3.25899 12.866L4.24769 8.72118C4.2738 8.61176 4.23648 8.49692 4.15105 8.42374L0.914889 5.65162C0.712228 5.47802 0.820086 5.14607 1.08608 5.12475L5.3336 4.78422C5.44573 4.77523 5.54342 4.70426 5.58662 4.60039L7.22303 0.665992Z\" fill=\"currentColor\"></path></svg>"
+        }
+      ]
+    }
+  },
+  "sectionConfig": {
+    "homepage": {
+      "top": [
+        {
+          "id": 1,
+          "title": "New / Updated from Creator",
+          "type": "featured-post",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Our Templates",
+          "type": "labeled-post",
+          "data": {
+            "label": "Template"
+          },
+          "show": true
+        },
+        {
+          "id": 3,
+          "title": "Programming Tips",
+          "type": "labeled-post",
+          "data": {
+            "label": "Tutorial"
+          },
+          "show": true
+        }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Recently Published",
+          "type": "latest-post",
+          "show": true
+        }
+      ],
+      "side": [
+        {
+          "id": 1,
+          "title": "Ads Banner",
+          "type": "ads-banner",
+          "show": true,
+          "data": [
+            {
+              "id": 1,
+              "type": "single",
+              "image": "",
+              "url": "",
+              "content": ""
+            },
+            {
+              "id": 2,
+              "type": "multiple",
+              "data": [
+                {
+                  "id": 1,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 2,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 3,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 4,
+                  "image": "",
+                  "url": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ]
+    },
+    "postDetail": {
+      "top": [
+        {
+          "id": 1,
+          "title": "New / Updated from Creator",
+          "type": "ads",
+          "show": true
+        }
+      ],
+      "side": [
+        {
+          "id": 3,
+          "title": "Related Posts",
+          "type": "related-post",
+          "show": true
+        },
+        {
+          "id": 4,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Blogger Post Detail",
+          "type": "blogger-post-detail",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Comment",
+          "type": "disqus-comment",
+          "show": true
+        }
+      ]
+    },
+    "pageDetail": {
+      "side": [
+        {
+          "id": 3,
+          "title": "Related Posts",
+          "type": "related-post",
+          "show": true
+        },
+        {
+          "id": 4,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Blogger Page Detail",
+          "type": "blogger-page-detail",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Comment",
+          "type": "disqus-comment",
+          "show": true
+        }
+      ]
+    }
+  },
+  "footerSection": {
+    "footerTop": {},
+    "footerMid": {},
+    "footerBot": {}
+  },
+  "default": {
+    "defaultNoTitle": "No Title",
+    "defaultNoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3OIvzwl6VEks3nEWGHXLol-ZjxU6_AL5GyEmWaZWGcumxclpnxpzTqoFTrmSLpRH__PXw89-ro7iRVwulE_qoIOjPQTuJup0C9HujiFy3yN4Blp0_qEb3fFXqTvuWFeckqp7kMOpvL9W_nEcXaZnaR0yda8M1djRRf1ay86FqDPnUDzgV9c_P-_Nf/w600-h337-p-k-no-nu/no-image.png",
+    "defaultNoAuthor": {
+      "id": "1209380129",
+      "name": "Admin Default",
+      "badge": "Pro",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEY30LknjxbSDvMW6S34LM0h6smG4GNUbWymXgjTn2fsAhsw_JWYVdXRrB-Z3WgspR_rs0daR_6QMi5gvwPaw2ak4tuJK1Ot6OrOYKBX5NUz98q_ye_WqvGf5qLxeGn-qqnmmKovJLvm4OdLIdJ57nJh6BsFDRgyoW0kwphyO04bHKoA/w120-h120-k-no-nu-e90-lo-l75-c-rw/massugeng2019.jpeg",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/Dev_Github",
+          "username": "Dev Github"
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/Dev_IG",
+          "username": "Dev IG"
+        }
+      ]
+    }
+  }
+}
